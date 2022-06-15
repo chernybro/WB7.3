@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WB5.3</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="votes_fragment_label">Tinder Cats</string>
+    <string name="favourites_fragment_label">Favourites</string>
+    <string name="favourites">Favourites</string>
+    <string name="error_internet_not_found">Please turn on the Internet</string>
+</resources>
